@@ -20,6 +20,7 @@ In the dashboard, following sheets are required
 1) Three cards for Active, Deaths, and Recovered
 2) One visual with Country VS. Deaths and Recovered
 3) One visual with WHO region Vs. One week % increase
+
 Q2] Answer the following questions
 1) How many WHO regions?
 2) Total new cases from the dataset?
